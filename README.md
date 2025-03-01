@@ -7,4 +7,4 @@ College: City College of Angeles, BS Information Systems\
 Senior HS: Systems Plus College Foundation, STEM\
 High School: ACNTS Angeles CIty National Trade School
 ## My Projects
-Midterm Lab Task 1:\
+Midterm Lab Task 1:[
