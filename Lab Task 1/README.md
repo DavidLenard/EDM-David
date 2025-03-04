@@ -21,3 +21,5 @@ For this task we we're assigned to clean and make an ERD of a raw data using EXC
 ![images](https://github.com/DavidLenard/EDM-David/blob/main/Images/Screenshot%202025-03-04%20135103.png)
 
 ## Step 5 Here's the cleaned data diagram
+
+![images](https://github.com/DavidLenard/EDM-David/blob/main/Images/edm.png)
