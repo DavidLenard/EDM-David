@@ -15,3 +15,7 @@ For this task we we're assigned to clean and make an ERD of a raw data using EXC
 ## Step 3 Here's the screenshot of the raw data before I started 
 
 ![image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Screenshot%202025-03-04%20134950.png)
+
+## Step 4 Here's the screenshot of the data after cleaning it
+
+![images](
