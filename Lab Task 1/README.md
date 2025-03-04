@@ -18,4 +18,6 @@ For this task we we're assigned to clean and make an ERD of a raw data using EXC
 
 ## Step 4 Here's the screenshot of the data after cleaning it
 
-![images](
+![images](https://github.com/DavidLenard/EDM-David/blob/main/Images/Screenshot%202025-03-04%20135103.png)
+
+## Step 5 Here's the cleaned data diagram
