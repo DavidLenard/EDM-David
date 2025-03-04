@@ -13,3 +13,5 @@ For this task we we're assigned to clean and make an ERD of a raw data using EXC
 - perform 3NF
 - Mapped the Normalized tables as a Physical Data Model
 ## Step 3 Here's the screenshot of the raw data before I started 
+
+![image](
