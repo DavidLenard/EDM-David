@@ -14,4 +14,4 @@ For this task we we're assigned to clean and make an ERD of a raw data using EXC
 - Mapped the Normalized tables as a Physical Data Model
 ## Step 3 Here's the screenshot of the raw data before I started 
 
-![image](
+![image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Screenshot%202025-03-04%20135103.png)
