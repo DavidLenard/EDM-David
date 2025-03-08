@@ -198,19 +198,19 @@ in\
     #"Filtered Rows2"\
 ## Here is the screenshot of the transformation process of the data
 ### Here's the Data output before I started to clean it
-![images]()
+![images](https://github.com/DavidLenard/EDM-David/blob/main/Images/Unclean1.png)
 ## Here are the screenshot of the Advanced Editor
-![Image]()
-### Here's the screenshot of my output after I started data cleaning (see screenshot)
-![Image]()
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Editor.png)
+### Here's the screenshot of my Data output after data cleaning (see screenshot)
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Cleaned.png)
 
 
 ### Here's the screenshot of Sal By Role type (see screenshot)
-![Image]()
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Salbyroletype.png)
 ### Here's the screenshot of Sal By Role Size (see screenshot)
-![Image]()
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Salbyref.png)
 ### Here's the screenshot of Sal By State (see screenshot)
-![Image]()
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Salbystateref.png)
 ### Here's the screenshot of States (see screenshot)
 ![Image]()
 ### Here's the screenshot of the Query Dependencies
