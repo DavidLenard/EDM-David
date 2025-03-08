@@ -198,4 +198,20 @@ in\
     #"Filtered Rows2"\
 ## Here is the screenshot of the transformation process of the data
 ### Here's the Data output before I started to clean it
-![images](
+![images]()
+## Here are the screenshot of the Advanced Editor
+![Image]()
+### Here's the screenshot of my output after I started data cleaning (see screenshot)
+![Image]()
+
+
+### Here's the screenshot of Sal By Role type (see screenshot)
+![Image]()
+### Here's the screenshot of Sal By Role Size (see screenshot)
+![Image]()
+### Here's the screenshot of Sal By State (see screenshot)
+![Image]()
+### Here's the screenshot of States (see screenshot)
+![Image]()
+### Here's the screenshot of the Query Dependencies
+![Image]()
