@@ -212,6 +212,6 @@ in\
 ### Here's the screenshot of Sal By State (see screenshot)
 ![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/Salbystateref.png)
 ### Here's the screenshot of States (see screenshot)
-![Image]()
+![Image](g)
 ### Here's the screenshot of the Query Dependencies
-![Image]()
+![Image](https://github.com/DavidLenard/EDM-David/blob/main/Images/queries.png)
