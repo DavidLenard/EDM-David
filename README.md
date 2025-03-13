@@ -7,7 +7,7 @@ Hi, My name is Lenard David of class I102 taking the course information systems 
 - Senior HS: Systems Plus College Foundation, STEM
 - High School: ACNTS Angeles CIty National Trade School
 ## My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](Lab%20Task%201/README.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](Lab%20task%202/README.md)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](https://github.com/DavidLenard/EDM-David/blob/main/Lab%20Task%201/README.md)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://github.com/DavidLenard/EDM-David/blob/main/Lab%20task%202/README.md)
 
 
