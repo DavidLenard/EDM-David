@@ -11,3 +11,4 @@ Hi, My name is Lenard David of class I102 taking the course information systems 
 ## My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](https://davidlenard.github.io/Midterm-Lab-Task-1---Themed/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://davidlenard.github.io/Midterm-Lab-Task-2---Themed/)
+- Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://davidlenard.github.io/Midterm-Lab-Task-3/)
