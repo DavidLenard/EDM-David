@@ -8,7 +8,13 @@ Hi, My name is Lenard David of class I102 taking the course information systems 
 - Senior HS: Systems Plus College Foundation, STEM
 - High School: ACNTS Angeles CIty National Trade School
   
-## My Projects
+## My Midterm Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](https://davidlenard.github.io/Midterm-Lab-Task-1---Themed/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://davidlenard.github.io/Midterm-Lab-Task-2---Themed/)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://davidlenard.github.io/Midterm-Lab-Task-3/)
+
+## My Final Projects
+- Finals Lab Task 1: [MySQL Basics](https://davidlenard.github.io/Finals-Lab-Task-1/)
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://davidlenard.github.io/Finals-Lab-Task-2/)
+- Finals Lab Task 3: [Table Manipulation](https://davidlenard.github.io/Final-Lab-Task-3/)
+- Finals Lab Task 3.1: [Using MYSQL Clause](https://davidlenard.github.io/Final-Lab-Task-3.1/)
