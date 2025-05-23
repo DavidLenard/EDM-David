@@ -18,3 +18,5 @@ Hi, My name is Lenard David of class I102 taking the course information systems 
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://davidlenard.github.io/Finals-Lab-Task-2/)
 - Finals Lab Task 3: [Table Manipulation](https://davidlenard.github.io/Final-Lab-Task-3/)
 - Finals Lab Task 3.1: [Using MYSQL Clause](https://davidlenard.github.io/Final-Lab-Task-3.1/)
+- Final Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://davidlenard.github.io/Final-Lab-Task-5/)
+- Fianl Lab Task 6: [MongoDB CRUD](https://davidlenard.github.io/Final-Lab-Task-6/)
